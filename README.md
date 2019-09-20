@@ -1,6 +1,8 @@
 # Perceptron_Fisher
 perceptron.py 为感知机代码
+
 感知机输出结果：
+
 a= [[1.24]
  [1.27]
  [1.  ]]
