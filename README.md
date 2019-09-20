@@ -1,11 +1,11 @@
 # Perceptron_Fisher
-perceptron.py 为感知机代码
+perceptron.py 为感知机程序
 
 感知机输出结果：
 
 a= [[1.24]
- 		[1.27]
- 		[1.  ]]
+ [1.27]
+ [1.  ]]
 a= [[ 0.1 ]
  [-0.55]
  [ 0.  ]]
@@ -102,3 +102,13 @@ A belongs to x2
 B belongs to x2
 
 ![image](https://github.com/Jojo11111/Perceptron_Fisher/blob/master/images/perceptron.png)
+
+fisher.py 为fisher分类器程序
+
+输出结果为：
+
+A：False
+
+B：False
+
+![image](https://github.com/Jojo11111/Perceptron_Fisher/blob/master/images/fisher.png)
