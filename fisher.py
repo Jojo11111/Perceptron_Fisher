@@ -24,7 +24,7 @@ def fisher(x1, x2):
     return Sw_inv * np.transpose(m1 - m2)
 
 
-# 判断样本类别
+# 判断样本类别 False代表第二类，True代表第一类
 def judge(sample, w, x1, x2):
     m1 = np.mean(x1, axis=0)
     m1 = np.mat(m1)
@@ -50,17 +50,15 @@ plt.scatter(A[0], A[1], c='g', marker='o')
 plt.scatter(B[0], B[1], c='g', marker='o')
 A = np.mat([1.24, 1.8])
 B = np.mat([1.40, 2.04])
-print(A)
 w = fisher(x1, x2)
 outA, w0 = judge(np.array(A), w, x1, x2)
 outB, w0 = judge(np.array(B), w, x1, x2)
-print(outA)
-print(outB)
+print('A:',outA)
+print('B:',outB)
 
 plt.scatter(x1[:, 0], x1[:, 1], c='r', marker='o')
 plt.scatter(x2[:, 0], x2[:, 1], c='b', marker='o')
 x = np.arange(1.1, 1.6, 0.1)
-print(w)
 y = double(w[0][0] / (-w[1][0])) * x + double(w0 / (-w[1][0]))
 plt.plot(x, y, c='b')
 plt.title('fisher')
