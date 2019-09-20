@@ -94,6 +94,8 @@ a= [[ 4.72]
 a= [[ 3.58]
  [-3.12]
  [ 1.  ]]
+ 
 A belongs to x2
 B belongs to x2
-images/perceptron.png
+
+https://github.com/Jojo11111/Perceptron_Fisher/blob/master/images/perceptron.png
