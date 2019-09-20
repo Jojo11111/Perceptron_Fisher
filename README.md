@@ -99,4 +99,4 @@ A belongs to x2
 
 B belongs to x2
 
-![image]https://github.com/Jojo11111/Perceptron_Fisher/blob/master/images/perceptron.png
+![image](https://github.com/Jojo11111/Perceptron_Fisher/blob/master/images/perceptron.png)
