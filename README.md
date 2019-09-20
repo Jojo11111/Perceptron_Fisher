@@ -96,3 +96,4 @@ a= [[ 3.58]
  [ 1.  ]]
 A belongs to x2
 B belongs to x2
+images/perceptron.png
