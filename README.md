@@ -105,7 +105,7 @@ B belongs to x2
 
 fisher.py 为fisher分类器程序
 
-输出结果为：
+输出结果为(第一类为True,第二类为False)：
 
 A：False
 
