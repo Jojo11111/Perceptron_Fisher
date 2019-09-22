@@ -111,4 +111,6 @@ A：False
 
 B：False
 
+g(x)=2.25x-1.127
+
 ![image](https://github.com/Jojo11111/Perceptron_Fisher/blob/master/images/fisher.png)
