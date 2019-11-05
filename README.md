@@ -1,4 +1,7 @@
 # Perceptron_Fisher
+
+老师不好意思，由于一些奇怪的原因，如果下面的图片无法显示，麻烦您移步https://gitee.com/zhaoguanyi/Perceptron_Fisher
+
 perceptron.py 为感知机程序
 
 感知机输出结果：
