@@ -101,7 +101,7 @@ A belongs to x2
 
 B belongs to x2
 
-![image](perceptron.png)
+![image](images/perceptron.png)
 
 fisher.py 为fisher分类器程序
 
@@ -113,4 +113,4 @@ B：False
 
 g(x)=[ 7.01285224 -3.11637055]**x**+-3.51072393
 
-![image](fisher.png)
+![image](images/fisher.png)
