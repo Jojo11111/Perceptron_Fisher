@@ -2,6 +2,8 @@
 
 老师不好意思，由于一些奇怪的原因，如果下面的图片无法显示，麻烦您移步https://gitee.com/zhaoguanyi/Perceptron_Fisher
 
+我的几次模式识别作业都在GitHub以及gitee里了，您可以考虑一次性批改完
+
 perceptron.py 为感知机程序
 
 感知机输出结果：
